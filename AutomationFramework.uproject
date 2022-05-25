@@ -26,6 +26,22 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "FunctionalTestingEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "RuntimeTests",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorTests",
+			"Enabled": true
+		},
+		{
+			"Name": "TestSamples",
+			"Enabled": true
 		}
 	]
 }
