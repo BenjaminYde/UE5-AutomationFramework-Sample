@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f46650d8_002D2782_002D462c_002D800f_002D07b3971fde98/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;UnrealTest::E4F6BCFF-89B2-3E10-BACA-1120F9D39F73::Windows,Version=v10.0.19041::TestSample.Sample01.Check Max Player Health&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="E:\Projects\UnrealEngine5\AutomationFramework\Intermediate\ProjectFiles" Presentation="&amp;lt;Games&amp;gt;\&amp;lt;AutomationFramework&amp;gt;" /&gt;&#xD;
+    &lt;Namespace&gt;TestSample.Sample01&lt;/Namespace&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
